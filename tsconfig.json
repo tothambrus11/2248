@@ -1,0 +1,9 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "sourceRoot": "src",
+    "sourceMap": true,
+    "outFile": "out/bundle.js",
+    "target": "ES5"
+  }
+}
